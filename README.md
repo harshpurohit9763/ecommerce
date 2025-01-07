@@ -1,16 +1,20 @@
 # ecommerce_app
 
-A new Flutter project.
+created the ecommerce applicaiton with features of 
 
-## Getting Started
+- Get products
+- Filter by category
+- sort by price or name
+- Add to cart
+- Buy now and save the data in the order history locally
+- change theme dark and light
+- change language (hindi,english,marathi)
+- Deeplink open specific product when link opened (Make app support link opening) => long press on app => app info => open url => select all avaialble option => now all set open link in app directly
+- detail product screen with share product feature 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Things implemented
+- getx routing
+- getx State management
+- shared preference
+- localization
+- transaction when switching in pages
